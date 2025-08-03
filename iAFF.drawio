@@ -518,7 +518,7 @@
         <mxCell id="n9SniBOY-8V9-aWlDFLI-119" value="&lt;h2&gt;C/r×1×1&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1130" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n9SniBOY-8V9-aWlDFLI-121" value="&lt;h2&gt;C/r×H1×W&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n9SniBOY-8V9-aWlDFLI-121" value="&lt;h2&gt;C/r×H×W&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1360" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n9SniBOY-8V9-aWlDFLI-122" value="&lt;h1&gt;MS-CAM&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
